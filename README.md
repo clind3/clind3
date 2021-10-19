@@ -4,9 +4,11 @@
      🔭 Working as a Software Development Intern at Novvia, a company specializing in 
         creating and maintaining iOS/Android applications.
         
-     🌱 Learning Web Development from OSU Full Stack Web Development Bootcamp
+     🌱 Certified Web Developer from OSU Full Stack Web Development Bootcamp
      
      🌱 Getting my Bachelor's in Computer Science from OSU
+     
+     🌱 Received my Associates in Computer Science from Columbus State Community College
      
 ### Contact Me
 <p >
