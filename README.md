@@ -1,12 +1,12 @@
 ### Welcome to my profile!👋
 
 ## Currently
-     🔭 Working as a Software Development Intern at Novvia, a company specializing in 
+     🔭 Working as a Junior Software Developmener at Novvia, a company specializing in 
         creating and maintaining iOS/Android applications.
         
      🌱 Certified Web Developer from OSU Full Stack Web Development Bootcamp
      
-     🌱 Getting my Bachelor's in Computer Science from OSU
+     🌱 Certified Flutter Mobile App Developer
      
      🌱 Received my Associates in Computer Science from Columbus State Community College
      
